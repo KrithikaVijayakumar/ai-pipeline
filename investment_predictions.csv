@@ -1,0 +1,7 @@
+Company,Ticker,Current Price,AI Confidence,Avg Daily Return (30d),Recommendation
+Microsoft,MSFT,$352.83,90.0%,-0.449%,BUY 📈
+Amazon,AMZN,$227.01,86.0%,-0.504%,BUY 📈
+Tesla,TSLA,$375.12,71.0%,-0.440%,BUY 📈
+Apple,AAPL,$275.15,71.0%,-0.215%,BUY 📈
+Google,GOOGL,$343.71,62.0%,-0.377%,BUY 📈
+Nvidia,NVDA,$195.74,29.0%,-0.360%,WAIT 📉
